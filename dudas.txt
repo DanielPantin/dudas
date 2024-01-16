@@ -3,7 +3,6 @@ git commit -m "nombre"
 gti push
 
 06-heroesApp:
-
 1)
 auth.service.ts -> checkAutentication() -> "tap, map, of y la doble negación" 
 
