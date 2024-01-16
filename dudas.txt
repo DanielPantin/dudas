@@ -1,0 +1,16 @@
+git add .
+git commit -m "nombre"
+gti push
+
+06-heroesApp:
+
+1)
+auth.service.ts -> checkAutentication() -> "tap, map, of y la doble negación" 
+
+07-formApp:
+1)
+shared/components/side-menu.component.html -> <li ngFor> -> "porque coloca [] en item.route si funciona igual?"
+2)
+reactive/pages/basic-page.component.ts -> FormGroup -> "Explicacion más detallada"
+3)
+shared/validators/email-validator.service.ts -> validate() -> "Concepto de promise y diferencias con Observable"
