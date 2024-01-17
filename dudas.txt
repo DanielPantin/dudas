@@ -3,6 +3,7 @@ git commit -m "nombre"
 gti push
 
 06-heroesApp:
+
 1)
 auth.service.ts -> checkAutentication() -> "tap, map, of y la doble negación" 
 
@@ -12,4 +13,4 @@ shared/components/side-menu.component.html -> <li ngFor> -> "porque coloca [] en
 2)
 reactive/pages/basic-page.component.ts -> FormGroup -> "Explicacion más detallada"
 3)
-shared/validators/email-validator.service.ts -> validate() -> "Concepto de promise y diferencias con Observable (of!)"
+shared/validators/email-validator.service.ts -> validate() -> "Concepto de promise y diferencias con Observable"
